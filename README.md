@@ -1,1 +1,1 @@
-Templete from http://ankitsultana.com/researcher)
+Templete from http://ankitsultana.com/researcher
