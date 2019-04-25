@@ -19,7 +19,7 @@ Multi-task Learning; Intepretabile Machine Learning
 * Jeong, Jun-Yong, Jun-Seong Kim, and Chi-Hyuck Jun. "Effect of dimension reduction on prediction performance of multivariate nonlinear time series." Industrial Engineering & Management Systems 14, no. 3 (2015): 312-317.
 
 ## Education
-Date | Degree | 
+Date | Degree | School
 -----|-------|--------
 2014.02 | B.S at Dept of Industrial Engineering (Minor at Mathematics) | Hanyang University, Rep of Korea
 2016.02 | M.S at Dept of Industrial and Management Engineering | POSTECH, Rep of Korea
