@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="pic.jpg">
 
 I am a Ph.D student of Industrial and Managment Engineering at POSTECH, Rep of Korea.
 
