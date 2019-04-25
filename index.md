@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg" width="200">
 
-I am JunYong Jeong, a Ph.D student of Dept of Industrial and Managment Engineering at POSTECH, Rep of Korea.
+I am JunYong Jeong, a Ph.D student of Industrial and Managment Engineering at POSTECH, Rep of Korea.
 
 ## Research Interest
 
@@ -21,9 +21,9 @@ Multi-task Learning; Intepretabile Machine Learning
 ## Education
 Date | Degree | School
 -----|-------|--------
-2014.02 | B.S at Dept of Industrial Engineering (Minor at Mathematics) | Hanyang University, Rep of Korea
-2016.02 | M.S at Dept of Industrial and Management Engineering | POSTECH, Rep of Korea
-2016.02 ~ 2020.02 (Expected)  | Ph.D at Dept of Industrial and Management Engineering | POSTECH, Rep of Korea
+2014.02 | B.S at Industrial Engineering (Minor at Mathematics) | Hanyang University, Rep of Korea
+2016.02 | M.S at Industrial and Management Engineering | POSTECH, Rep of Korea
+2016.02 ~ 2020.02 (Expected)  | Ph.D at Industrial and Management Engineering | POSTECH, Rep of Korea
 
 ## References
 
