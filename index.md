@@ -6,18 +6,19 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Ph.D student of Industrial and Managment Engineering at POSTECH, Rep of Korea.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Multi-task Learning; Intepretabile Machine Learning 
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* Jeong, Jun-Yong, and Chi-Hyuck Jun. "Variable selection and task grouping for multi-task learning." In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 1589-1598. ACM, 2018.
+
+* Jeong, Jun-Yong, Jun-Seong Kim, and Chi-Hyuck Jun. "Effect of dimension reduction on prediction performance of multivariate nonlinear time series." Industrial Engineering & Management Systems 14, no. 3 (2015): 312-317.
 
 ## Typography
 
