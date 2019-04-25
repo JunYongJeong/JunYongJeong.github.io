@@ -22,4 +22,3 @@ Multi-task Learning; Intepretabile Machine Learning
 Ph.D., Industrial and Management Engineering, POSTECH, Rep of Korea, 2014 Feb ~ 2020 Feb (expected)
 
 B.S., Industrial Engineering (Minor at Mathematics), Hanyang University, Rep of Korea, 2009 Feb -2014 Feb
-
